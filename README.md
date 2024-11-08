@@ -1,4 +1,4 @@
-<h2> Hi, I'm Nitrix! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Vaxera! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.postimg.cc/y8k2d64C/3434d665-980e-499d-a671-268ec5ffe65b.jpg" width="230">
 <p><em>Intermediate Developer who loves building exciting projects and exploring new opportunities!</em></p>
 
