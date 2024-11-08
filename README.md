@@ -2,8 +2,8 @@
 <img align='right' src="https://i.postimg.cc/y8k2d64C/3434d665-980e-499d-a671-268ec5ffe65b.jpg" width="230">
 <p><em>Intermediate Developer who loves building exciting projects and exploring new opportunities!</em></p>
 
-[![Instagram: Nitrix](https://img.shields.io/badge/-Nitrix-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/nitrix)](https://instagram.com/nitrix)
-[![GitHub Nitrix](https://img.shields.io/github/followers/Nitrix?label=follow&style=social)](https://github.com/Nitrix)
+[![Instagram: Nitrix](https://img.shields.io/badge/-Nitrix-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/nitrixly)](https://instagram.com/nitrix)
+[![GitHub Nitrix](https://img.shields.io/github/followers/vaxera?label=follow&style=social)](https://github.com/vaxera)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
