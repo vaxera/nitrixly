@@ -12,8 +12,8 @@ nitrix = {
   pronouns: "he" | "him",
   code: ["Python", "HTML", "CSS", "SQL"],
   tools: ["SQLite3", "Discord.py", "Flask"],
-  interests: ["chatbot development", "backend systems", "database management"],
-  challenge: "Currently building a chatbot with advanced features and working on my SQL skills"
+  interests: ["Opensource development", "backend systems", "database management"],
+  challenge: "Currently building projects with advanced features and working on my SQL skills"
 }
 ```
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaxera&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
