@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Intermediate Developer who loves building exciting projects and exploring new opportunities!</em></p>
 
-[![LinkedIn: Nitrix](https://img.shields.io/badge/-Nitrix-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitrix/)](https://www.linkedin.com/in/nitrix/)
+[![Instagram: Nitrix](https://img.shields.io/badge/-Nitrix-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/nitrix)](https://instagram.com/nitrix)
 [![GitHub Nitrix](https://img.shields.io/github/followers/Nitrix?label=follow&style=social)](https://github.com/Nitrix)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
