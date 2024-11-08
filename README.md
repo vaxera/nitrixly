@@ -7,11 +7,14 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```python
+```javascript
 nitrix = {
   pronouns: "he" | "him",
   code: ["Python", "HTML", "CSS", "SQL"],
   tools: ["SQLite3", "Discord.py", "Flask"],
   interests: ["chatbot development", "backend systems", "database management"],
   challenge: "Currently building a chatbot with advanced features and working on my SQL skills"
-}
+};
+
+};
+```
